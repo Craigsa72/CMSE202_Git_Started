@@ -1,1 +1,3 @@
-This is a text file that i want to add to the repo.
+hi, this is sam.
+
+go green
